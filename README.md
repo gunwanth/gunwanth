@@ -10,12 +10,12 @@
   <img src="https://img.shields.io/badge/Gmail-gunvanth752004-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
-<a href="#">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/gunvanth-m">
+  <img src="https://img.shields.io/badge/LinkedIn-gunvanth--m-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
-<a href="#">
-  <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="https://web-portfolio-main-one.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 &nbsp;
 <img src="https://komarev.com/ghpvc/?username=gunwanth&label=Profile%20Views&color=2563EB&style=for-the-badge"/>
@@ -37,6 +37,8 @@ focus       : [ Agentic AI, LLM Systems, Full Stack Development ]
 status      : Open to opportunities
 location    : India
 email       : gunvanth752004@gmail.com
+linkedin    : linkedin.com/in/gunvanth-m
+portfolio   : web-portfolio-main-one.vercel.app
 ```
 
 > Passionate about building **real-world AI systems** involving **LLMs**, **intelligent automation**, **agent orchestration**, **rule engines**, **ML pipelines**, and **scalable full-stack architectures**.
@@ -329,9 +331,13 @@ email       : gunvanth752004@gmail.com
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/💼%20LinkedIn-www.linkedin.com/in/gunvanth-m-0A66C2?style=for-the-badge&logo=linkedin"/>
+<a href="https://www.linkedin.com/in/gunvanth-m">
+  <img src="https://img.shields.io/badge/💼%20LinkedIn-gunvanth--m-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 &nbsp;
-<img src="https://img.shields.io/badge/🌐%20Portfolio-https://web-portfolio-main-one.vercel.app/-2563EB?style=for-the-badge"/>
+<a href="https://web-portfolio-main-one.vercel.app/">
+  <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
 </div>
 
