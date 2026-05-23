@@ -329,9 +329,9 @@ email       : gunvanth752004@gmail.com
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/💼%20LinkedIn-Add%20your%20URL-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/💼%20LinkedIn-www.linkedin.com/in/gunvanth-m-0A66C2?style=for-the-badge&logo=linkedin"/>
 &nbsp;
-<img src="https://img.shields.io/badge/🌐%20Portfolio-Coming%20Soon-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌐%20Portfolio-https://web-portfolio-main-one.vercel.app/-2563EB?style=for-the-badge"/>
 
 </div>
 
